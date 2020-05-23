@@ -1,0 +1,13 @@
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\bin\Debug\QLclass.exe.config
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\bin\Debug\QLclass.exe
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\bin\Debug\QLclass.pdb
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.csprojResolveAssemblyReference.cache
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.Home.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.Properties.Resources.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.QLGV.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.QLSV.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.csproj.GenerateResource.Cache
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.exe
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.pdb
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.ThemHocPhan.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\QLclass\QLclass\QLclass\obj\Debug\QLclass.CapNhatHocPhan.resources
